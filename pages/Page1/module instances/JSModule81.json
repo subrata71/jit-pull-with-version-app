@@ -1,7 +1,7 @@
 {
-  "gitSyncId": "67e05f0b8892f349c30049c4_5d6dd4cb-ae69-402f-a94d-765006974d0f",
-  "id": "Page1_JSModule51",
-  "moduleUUID": "1794b4cd-fdd0-424e-b119-beb8263eeb37",
+  "gitSyncId": "67e05f0b8892f349c30049c4_543953df-3b63-4bd1-8df5-fdcb977b59b7",
+  "id": "Page1_JSModule81",
+  "moduleUUID": "95632649-e096-46c2-ad12-e021195d7ae7",
   "packageUUID": "8ae35d2f-2346-4b47-9a6b-c47eb5b406fb",
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
@@ -11,22 +11,22 @@
       "myFun2": "[]"
     },
     "moduleInputs": {
-      "jwcgjkwpmq": {
+      "qclkkrkush": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
-        "id": "jwcgjkwpmq",
-        "label": "myFun2",
-        "propertyName": "inputs.myFun2"
-      },
-      "mxixezflrt": {
-        "controlType": "INPUT_TEXT",
-        "defaultValue": "[]",
-        "id": "mxixezflrt",
+        "id": "qclkkrkush",
         "label": "myFun1",
         "propertyName": "inputs.myFun1"
+      },
+      "wmxqgdpols": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "wmxqgdpols",
+        "label": "myFun2",
+        "propertyName": "inputs.myFun2"
       }
     },
-    "name": "JSModule51",
+    "name": "JSModule81",
     "pageId": "Page1",
     "version": "v3.0.0"
   }
