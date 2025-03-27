@@ -7,6 +7,8 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
+      "getV4": "[]",
+      "getV5": "[]",
       "myFun1": "[]",
       "myFun2": "[]"
     },
@@ -24,10 +26,24 @@
         "id": "wmxqgdpols",
         "label": "myFun2",
         "propertyName": "inputs.myFun2"
+      },
+      "ybmjaunkax": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "ybmjaunkax",
+        "label": "getV5",
+        "propertyName": "inputs.getV5"
+      },
+      "zvgrscesgo": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "zvgrscesgo",
+        "label": "getV4",
+        "propertyName": "inputs.getV4"
       }
     },
     "name": "JSModule81",
     "pageId": "Page1",
-    "version": "v3.0.0"
+    "version": "v4.0.1"
   }
 }
