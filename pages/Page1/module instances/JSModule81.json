@@ -7,6 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
+      "getRealV6": "[]",
       "getV4": "[]",
       "getV5": "[]",
       "getV6": "[]",
@@ -35,6 +36,13 @@
         "label": "myFun2",
         "propertyName": "inputs.myFun2"
       },
+      "wvmiggmetw": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "wvmiggmetw",
+        "label": "getRealV6",
+        "propertyName": "inputs.getRealV6"
+      },
       "ybmjaunkax": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
@@ -52,6 +60,6 @@
     },
     "name": "JSModule81",
     "pageId": "Page1",
-    "version": "v5.0.0"
+    "version": "v6.0.0"
   }
 }
